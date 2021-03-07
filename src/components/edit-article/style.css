@@ -1,0 +1,20 @@
+.new-article{
+    margin: 2rem 2rem;
+}
+
+.article-info{
+    display: flex;
+
+    margin: 1rem;
+}
+
+.article-item{
+    display: flex;
+    flex-direction: row;
+    margin: 1rem 1rem;
+    width: 500rem;
+}
+
+.input--title{
+    color: white;
+}

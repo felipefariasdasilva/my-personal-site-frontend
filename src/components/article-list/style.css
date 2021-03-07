@@ -1,0 +1,38 @@
+.article{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 10rem;
+}
+
+.new-article-button{
+    width: 10rem;
+    margin: 2rem 0;
+    text-decoration: none;
+    color: white;
+}
+
+.new-article-text-area{
+    width: 35rem;
+}
+
+.action-buttons{
+    margin-left: 1rem;
+}
+
+.main--buttons{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;   
+}
+
+.link--button{
+    text-decoration: none;
+    color: white;
+}
+
+.loading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #f50057;
+}
